@@ -18,6 +18,7 @@ import javafx.stage.Stage;
  * 
  * @author Brad Richards
  */
+//Anahi Test
 public class JavaFX_App_Template extends Application {
     private static JavaFX_App_Template mainProgram; // singleton
     private Splash_View splashView;
