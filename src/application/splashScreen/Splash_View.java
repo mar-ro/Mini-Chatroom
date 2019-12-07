@@ -22,6 +22,7 @@ import javafx.stage.StageStyle;
 public class Splash_View extends View<Splash_Model> {
     ProgressBar progress;
     private Label lblStatus;
+    //private 
 
 
     public Splash_View(Stage stage, Splash_Model model) {
